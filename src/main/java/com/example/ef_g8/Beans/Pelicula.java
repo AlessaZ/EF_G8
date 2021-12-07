@@ -1,4 +1,4 @@
-package Beans;
+package com.example.ef_g8.Beans;
 
 public class Pelicula {
     private int idPelicula;
